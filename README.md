@@ -1,4 +1,3 @@
-```markdown
 # RandomAccessFileExampleGUI
 
 Questo progetto Java implementa un gioco basato su un file di accesso casuale, con un'interfaccia grafica Swing.
