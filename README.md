@@ -92,16 +92,5 @@ calculateScoreItem.addActionListener(new ActionListener() {
 - `new ActionListener() { ... }`: Crea un nuovo ActionListener per gestire l'evento di azione.
 - `game.calcolaPunteggio()`: Invoca il metodo `calcolaPunteggio()` dell'oggetto `game`, che calcola il punteggio totale di un giocatore basato sui lanci precedenti e mostra il risultato tramite un JOptionPane.
 
-## Contributi
-
-Siamo aperti a contributi! Sentiti libero di aprire issue o pull request per migliorare il progetto.
-
-## Licenza
-
-Questo progetto è concesso in licenza sotto la Licenza MIT - vedi il file [LICENSE](LICENSE) per i dettagli.
-
-## Contatti
-
-
 
 ---
